@@ -8,5 +8,7 @@ body {
 * {
   outline: 1px dotted black;
 }
-
+iframe{
+  border:solid blue;
+  size:3px;}
 /* Your Awesome Scripts */
